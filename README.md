@@ -34,7 +34,7 @@ Fleet customers: fleet performance.
 
 Slides and Pitch Video: https://drive.google.com/drive/u/3/folders/1xGNPkJ76kIZM4fdm2143mYhlK2dLewjz
 
-Website: https://sites.google.com/view/canto-aspiring-road-safety/home?authuser=1
+Website: https://sites.google.com/view/canto-transport-dao/home
 
 # Blockchain Eco-system 
 
